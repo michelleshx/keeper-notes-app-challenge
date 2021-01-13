@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/keeper-notes-app-challenge/static/js/main.fda762c6.chunk.js",
+    "main.js.map": "/keeper-notes-app-challenge/static/js/main.fda762c6.chunk.js.map",
+    "runtime-main.js": "/keeper-notes-app-challenge/static/js/runtime-main.08f39e95.js",
+    "runtime-main.js.map": "/keeper-notes-app-challenge/static/js/runtime-main.08f39e95.js.map",
+    "static/js/2.4adc0c3a.chunk.js": "/keeper-notes-app-challenge/static/js/2.4adc0c3a.chunk.js",
+    "static/js/2.4adc0c3a.chunk.js.map": "/keeper-notes-app-challenge/static/js/2.4adc0c3a.chunk.js.map",
+    "index.html": "/keeper-notes-app-challenge/index.html",
+    "static/js/2.4adc0c3a.chunk.js.LICENSE.txt": "/keeper-notes-app-challenge/static/js/2.4adc0c3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f39e95.js",
+    "static/js/2.4adc0c3a.chunk.js",
+    "static/js/main.fda762c6.chunk.js"
+  ]
+}
